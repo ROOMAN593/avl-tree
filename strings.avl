@@ -1,0 +1,27 @@
+stats
+insert twelve
+stats
+insert nine
+insert eleven
+insert ten
+traverse -0
+stats
+insert five
+insert four
+insert three
+stats
+insert eight
+insert one
+insert two
+traverse -1
+insert six
+insert seven
+stats
+delete two
+stats
+delete three
+stats
+delete five
+stats
+delete seven
+stats
